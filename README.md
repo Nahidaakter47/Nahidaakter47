@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/nahida akter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nahida akter" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/share/12kz9x3ycqa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/12kz9x3ycqa/" height="30" width="40" /></a>
 <a href="https://instagram.com/nahida nishu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nahida nishu" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/nahida akter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nahida akter" height="30" width="40" /></a>
 </p>
@@ -24,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahidaakter47&show_icons=true&locale=en" alt="nahidaakter47" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahidaakter47&" alt="nahidaakter47" /></p>
-
